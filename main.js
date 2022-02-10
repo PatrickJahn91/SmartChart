@@ -12,5 +12,5 @@ function main() {
    helloWorld(); 
    
    // Return value 
-   return 0; 
+   return 0;
 }
